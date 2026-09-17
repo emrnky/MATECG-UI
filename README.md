@@ -8,7 +8,7 @@
 
 ### Linux & OSX
 ```sh
-git clone https://github.com/Emirhankayar/MATECG-UI.git
+git clone https://github.com/emrnky/MATECG-UI.git
 cd MATECG-UI
 
 python3.12 -m venv venv
@@ -20,7 +20,7 @@ chmod +x install.sh
 ### Windows
 > On Windows operating system, if there is no default PDF viewer application, it will load gradcam results to the default browser. If you want to prevent this behavior you must download PDF viewer.
 ```sh
-git clone https://github.com/Emirhankayar/MATECG-UI.git
+git clone https://github.com/emrnky/MATECG-UI.git
 cd MATECG-UI
 
 py -3.12 -m venv venv
